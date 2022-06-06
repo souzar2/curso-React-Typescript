@@ -6,7 +6,6 @@ import style from './App.module.scss';
 function App() {
   return (
     <div className={style.AppStyle}>
-      AAAA
       <Formulario />
       <Lista />
     </div>
